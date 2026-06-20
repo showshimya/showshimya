@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sowji Karumuri</h1>
-<h3 align="center">Senior SDET Team Lead | Test Automation Architect | 14+ Years Building Quality at Scale</h3>
+<h3 align="center"> Lead SDET | Test Automation Architect | 14+ Years Building Quality at Scale</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagasowjanyakarumuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
