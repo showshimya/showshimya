@@ -62,7 +62,7 @@ I'm an **Automation Platform Architect / SDET Team Lead** based in San Francisco
 
 ### 🏆 Highlights
 - 🚀 Architected **LLM-driven agentic test automation** workflows using Claude AI + MCP with Playwright
-- ⚡ Reduced regression cycle time from a full day to **minutes** across 3+ React apps (800+ users)
+- ⚡ Reduced regression cycle time from a full day to **minutes** across 30+ React apps (800+ users)
 - 🛠️ Built **self-serve quality engineering platform** used by 800+ engineers org-wide
 - 📈 Achieved **85% automated test coverage** for core platform features at Sysdig
 - 🎓 M.S. Software Engineering, Kansas State University | B.S. Information Technology, Osmania University
